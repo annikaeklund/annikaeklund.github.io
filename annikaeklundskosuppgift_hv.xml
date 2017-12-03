@@ -6,7 +6,7 @@
   
   <skos:ConceptScheme rdf:about="MyScheme">
     <dc:title>Några svenska lanthönsraser</dc:title>
-    <dc:description>Kontrollerad vokabulär för indexering av dokument som handlar om svenska lanthönsraser</dc:description>
+    <dc:description>Kontrollerad vokabulär för indexering av dokument som handlar om några svenska lanthönsraser</dc:description>
     <dc:creator>Annika Eklund</dc:creator>
   </skos:ConceptScheme>
   
@@ -93,8 +93,8 @@
   
   <skos:Concept rdf:about="#hedemorahona">
     <skos:prefLabel xml:lang="sv">Hedemorahöna</skos:prefLabel>
-    <skos:altLabel>Hemedora chicken</skos:altLabel>
-    <skos:hiddenLabel>Hemedorahona</skos:hiddenLabel>
+    <skos:altLabel>Hedemora chicken</skos:altLabel>
+    <skos:hiddenLabel>Hedemorahona</skos:hiddenLabel>
     <skos:broader rdf:resource="#svenskalanthonsraser"/>
     <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Hedemorahöna"/>
     <skos:example rdf:resource="http://www.skansen.se/en/hedemorahöna"/>
