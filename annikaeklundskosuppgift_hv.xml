@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE rdf:RDF SYSTEM "skos.dtd">
-<?xml-stylesheet type="text/xsl" href="skos-styleHie.xsl"?>
+<?xml-stylesheet type="text/xsl" href="skos-styleList.xsl"?>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   
   <skos:ConceptScheme rdf:about="MyScheme">
-    <dc:title>En liten katalog över svenska lanthönsraser</dc:title>
-    <dc:description>Detta schema ger en del av lanthönsrasers placering inom Dewey Decimal Katalog</dc:description>
+    <dc:title>Några svenska lanthönsraser</dc:title>
+    <dc:description>Kontrollerad vokabulär för indexering av dokument som handlar om svenska lanthönsraser</dc:description>
     <dc:creator>Annika Eklund</dc:creator>
   </skos:ConceptScheme>
   
@@ -17,6 +17,7 @@
     <skos:hiddenLabel>Hons och ovriga slags tamfaglar</skos:hiddenLabel>
     <skos:altLabel>Fjaderfa</skos:altLabel>
     <skos:narrower rdf:resource="#specificbreedsofchickens"/>
+    <skos:narrower rdf:resource="#babs"/>
     <skos:definition rdf:resource="https://en.wikipedia.org/wiki/Poultry"/>
     <skos:example rdf:resource="http://library.uniteddiversity.coop/Food/Chickens/Storey%27s%20Illustrated%20Guide%20to%20Poultry%20Breeds%20Complete.pdf"/>
   </skos:Concept>
@@ -28,7 +29,17 @@
     <skos:hiddenLabel>Sarskilda honsraser</skos:hiddenLabel>
     <skos:narrower rdf:resource="#europeanbreedsofchickens"/>
     <skos:broader rdf:resource="#honsochovrigaslagstamfaglar"/>
+    <skos:related rdf:resource="#babs"/>
     <skos:definition rdf:resource="https://en.wikipedia.org/wiki/List_of_chicken_breeds"/>
+  </skos:Concept>
+  
+  <skos:Concept rdf:about="#babs">
+    <skos:prefLabel>Babs</skos:prefLabel>
+    <skos:altLabel xml:lang="sv">Babs från Chicken Run</skos:altLabel>
+    <skos:related rdf:resource="#specificbreedsofchickens"/>
+    <skos:broader rdf:resource="#honsochovrigaslagstamfaglar"/>
+    <skos:definition rdf:resource="http://dreamworks.wikia.com/wiki/Babs"/>
+    <skos:example rdf:resource="http://vignette1.wikia.nocookie.net/the-mystery-case-files/images/9/99/Babs_chicken_run.png/revision/latest?cb=20150221225549"/>
   </skos:Concept>
   
   <skos:Concept rdf:about="#europeanbreedsofchickens">
@@ -92,7 +103,7 @@
   <skos:Concept rdf:about="#kindahona">
     <skos:prefLabel xml:lang="sv">Kindahöna</skos:prefLabel>
     <skos:altLabel>Swedish Kinda chicken</skos:altLabel>
-    <skos:altLabel xml:lang="sv">Hön från Östergötland</skos:altLabel>
+    <skos:altLabel xml:lang="sv">Höns från Östergötland</skos:altLabel>
     <skos:hiddenLabel>Kindahona</skos:hiddenLabel>
     <skos:broader rdf:resource="#svenskalanthonsraser"/>
     <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Kindahöna"/>
@@ -142,6 +153,7 @@
   <skos:Concept rdf:about="#olandskdvarghona">
     <skos:prefLabel xml:lang="sv">Öländsk dvärghöna</skos:prefLabel>
     <skos:altLabel xml:lang="sv">Dvärghöna från Öland</skos:altLabel>
+    <skos:altLabel xml:lang="sv">Spitehöna</skos:altLabel>
     <skos:altLabel xml:lang="sv">Öland dwarf chicken</skos:altLabel>
     <skos:hiddenLabel>Olandsk dvarghona</skos:hiddenLabel>
     <skos:hiddenLabel xml:lang="sv">Dvärghöna Öland</skos:hiddenLabel>
