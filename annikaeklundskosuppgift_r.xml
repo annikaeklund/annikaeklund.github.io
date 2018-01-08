@@ -39,7 +39,7 @@
     <skos:narrower rdf:resource="#danska_ankor"/>
     <skos:narrower rdf:resource="#faröisk_anka"/>
     <skos:definition rdf:resource="https://en.wikipedia.org/wiki/Poultry"/>
-    <skos:example rdf:resource="http://library.uniteddiversity.coop/Food/Chickens/Storey%27s%20Illustrated%20Guide%20to%20Poultry%20Breeds%20Complete.pdf"/>
+    <skos:example rdf:resource="https://calicoblossom.com/wp-content/uploads/2015/12/flock1-2.jpg"/>
     <skos:inScheme rdf:resource="#En schema för fjäderfä"/>
   </skos:Concept>
   
@@ -223,7 +223,7 @@
   </skos:Concept>
   
   <skos:Concept rdf:about="#tamgäss">
-    <skos:prefLabel>höns</skos:prefLabel>
+    <skos:prefLabel>tamgäss</skos:prefLabel>
     <skos:altLabel xml:lang="sv">domesticerade gäss</skos:altLabel>
     <skos:hiddenLabel>honsraser</skos:hiddenLabel>
     <skos:narrower rdf:resource="#svenska_tamgäss"/>
