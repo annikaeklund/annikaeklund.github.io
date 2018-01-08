@@ -14,31 +14,30 @@
     <skos:prefLabel xml:lang="sv">fjäderfä</skos:prefLabel>
     <skos:altLabel xml:lang="sv">lantbruksfåglar</skos:altLabel>
     <skos:altLabel xml:lang="sv">domesticerade fåglar</skos:altLabel>
-    <skos:hiddenLabel>tamfaglar</skos:hiddenLabel>
-    <skos:altLabel>fjaderfa</skos:altLabel>
+    <skos:hiddenLabel>fjaderfa</skos:hiddenLabel>
     <skos:narrower rdf:resource="#höns"/>
     <skos:narrower rdf:resource="#svenska_höns"/>
-    <skos:narrower rdf:resource="#bohuslän-dals svarthöna"/>
+    <skos:narrower rdf:resource="#bohuslän-dals_svarthöna"/>
     <skos:narrower rdf:resource="#ölandshöna"/>
-    <skos:narrower rdf:resource="#öländsk dvärghöna"/>
+    <skos:narrower rdf:resource="#öländsk_dvärghöna"/>
     <skos:narrower rdf:resource="#gotlandshöna"/>
-    <skos:narrower rdf:resource="#danska höns"/>
-    <skos:narrower rdf:resource="#danska lanthöns"/>
-    <skos:narrower rdf:resource="#norska höns"/>
-    <skos:narrower rdf:resource="#norska järhöns"/>
+    <skos:narrower rdf:resource="#danska_höns"/>
+    <skos:narrower rdf:resource="#danska_lanthöns"/>
+    <skos:narrower rdf:resource="#norska_höns"/>
+    <skos:narrower rdf:resource="#norska_järhöns"/>
     <skos:narrower rdf:resource="#tamgäss"/>
-    <skos:narrower rdf:resource="#svenska tamgäss"/>
+    <skos:narrower rdf:resource="#svenska_tamgäss"/>
     <skos:narrower rdf:resource="#ölandsgås"/>
-    <skos:narrower rdf:resource="#danska tamgäss"/>
-    <skos:narrower rdf:resource="#dansk lantgås"/>
-    <skos:narrower rdf:resource="#norska tamgäss"/>
+    <skos:narrower rdf:resource="#danska_tamgäss"/>
+    <skos:narrower rdf:resource="#dansk_lantgås"/>
+    <skos:narrower rdf:resource="#norska_tamgäss"/>
     <skos:narrower rdf:resource="#smålensgås"/>
-    <skos:narrower rdf:resource="#norsk hvit gås"/>
+    <skos:narrower rdf:resource="#norsk_hvit_gås"/>
     <skos:narrower rdf:resource="#ankor"/>
-    <skos:narrower rdf:resource="#svenska ankor"/>
-    <skos:narrower rdf:resource="#svensk myskanka"/>
-    <skos:narrower rdf:resource="#danska ankor"/>
-    <skos:narrower rdf:resource="#faröisk anka"/>
+    <skos:narrower rdf:resource="#svenska_ankor"/>
+    <skos:narrower rdf:resource="#svensk_myskanka"/>
+    <skos:narrower rdf:resource="#danska_ankor"/>
+    <skos:narrower rdf:resource="#faröisk_anka"/>
     <skos:definition rdf:resource="https://en.wikipedia.org/wiki/Poultry"/>
     <skos:example rdf:resource="http://library.uniteddiversity.coop/Food/Chickens/Storey%27s%20Illustrated%20Guide%20to%20Poultry%20Breeds%20Complete.pdf"/>
     <skos:inScheme rdf:resource="#En schema för fjäderfä"/>
@@ -49,14 +48,14 @@
     <skos:altLabel xml:lang="sv">hönsraser</skos:altLabel>
     <skos:hiddenLabel>honsraser</skos:hiddenLabel>
     <skos:narrower rdf:resource="#svenska_höns"/>
-    <skos:narrower rdf:resource="#bohuslän-dals svarthöna"/>
+    <skos:narrower rdf:resource="#bohuslän-dals_svarthöna"/>
     <skos:narrower rdf:resource="#ölandshöna"/>
-    <skos:narrower rdf:resource="#öländsk dvärghöna"/>
+    <skos:narrower rdf:resource="#öländsk_dvärghöna"/>
     <skos:narrower rdf:resource="#gotlandshöna"/>
-    <skos:narrower rdf:resource="#danska höns"/>
-    <skos:narrower rdf:resource="#danska lanthöns"/>
-    <skos:narrower rdf:resource="#norska höns"/>
-    <skos:narrower rdf:resource="#norska järhöns"/>
+    <skos:narrower rdf:resource="#danska_höns"/>
+    <skos:narrower rdf:resource="#danska_lanthöns"/>
+    <skos:narrower rdf:resource="#norska_höns"/>
+    <skos:narrower rdf:resource="#norska_järhöns"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Tamhöna"/>
     <skos:example rdf:resource="https://en.wikipedia.org/wiki/List_of_chicken_breeds"/>
@@ -69,14 +68,14 @@
     <skos:hiddenLabel>svenska hons</skos:hiddenLabel>
     <skos:broader rdf:resource="#höns"/>
     <skos:broader rdf:resource="#fjäderfä"/>
-    <skos:narrower rdf:resource="#bohuslän-dals svarthöna"/>
+    <skos:narrower rdf:resource="#bohuslän-dals_svarthöna"/>
     <skos:narrower rdf:resource="#gotlandshöna"/>
     <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Svenska_lantraser#Höns"/>
     <skos:example rdf:resource="https://www.slu.se/ew-nyheter/nyhetsarkiv/2015/3/svenska-lanthonsraser-far-arvsmassan-kartlagd/"/>
     <skos:inScheme rdf:resource="#En schema för fjäderfä"/>
   </skos:Concept>
   
-  <skos:Concept rdf:about="#bohuslän-dals svarthöna">
+  <skos:Concept rdf:about="#bohuslän-dals_svarthöna">
     <skos:prefLabel xml:lang="sv">bohuslän-dals svarthöna</skos:prefLabel>
     <skos:altLabel xml:lang="sv">svarthöna</skos:altLabel>
     <skos:hiddenLabel>bohuslan-dals svarthona</skos:hiddenLabel>
@@ -92,7 +91,7 @@
     <skos:prefLabel xml:lang="sv">ölandshöna</skos:prefLabel>
     <skos:altLabel xml:lang="sv">ölandshöns</skos:altLabel>
     <skos:hiddenLabel>Olandshona</skos:hiddenLabel>
-    <skos:related rdf:resource="#öländsk dvärghöna"/>
+    <skos:related rdf:resource="#öländsk_dvärghöna"/>
     <skos:broader rdf:resource="#svenska_höns"/>
     <skos:broader rdf:resource="#höns"/>
     <skos:broader rdf:resource="#fjäderfä"/>
@@ -100,7 +99,7 @@
     <skos:example rdf:resource="http://media2.apellgarden.com/2014/03/IMG_3261.jpg"/>
   </skos:Concept>
   
-  <skos:Concept rdf:about="#öländsk dvärghöna">
+  <skos:Concept rdf:about="#öländsk_dvärghöna">
     <skos:prefLabel xml:lang="sv">öländsk dvärghöna</skos:prefLabel>
     <skos:altLabel xml:lang="sv">spitehöna</skos:altLabel>
     <skos:hiddenLabel>olandsk dvarghona</skos:hiddenLabel>
@@ -125,11 +124,11 @@
     <skos:inScheme rdf:resource="#En schema för fjäderfä"/>
   </skos:Concept>
   
-  <skos:Concept rdf:about="#danska höns">
+  <skos:Concept rdf:about="#danska_höns">
     <skos:prefLabel>danska höns</skos:prefLabel>
-    <skos:altLabel xml:lang="sv">danska hönsraser</skos:altLabel>
+    <skos:altLabel xml:lang="sv">danska_hönsraser</skos:altLabel>
     <skos:hiddenLabel>danska hons</skos:hiddenLabel>
-    <skos:narrower rdf:resource="#danska lanthöns"/>
+    <skos:narrower rdf:resource="#danska_lanthöns"/>
     <skos:broader rdf:resource="#höns"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="https://da.wikipedia.org/wiki/Danske_landhøns"/>
@@ -137,11 +136,11 @@
     <skos:inScheme rdf:resource="#En schema för fjäderfä"/>
   </skos:Concept>
   
-  <skos:Concept rdf:about="#danska lanthöns">
+  <skos:Concept rdf:about="#danska_lanthöns">
     <skos:prefLabel xml:lang="sv">danska lanthöns</skos:prefLabel>
     <skos:altLabel xml:lang="da">danske landhøns</skos:altLabel>
     <skos:hiddenLabel>danska lanthons</skos:hiddenLabel>
-    <skos:broader rdf:resource="#danska höns"/>
+    <skos:broader rdf:resource="#danska_höns"/>
     <skos:broader rdf:resource="#höns"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="https://da.wikipedia.org/wiki/Danske_landhøns"/>
@@ -149,13 +148,13 @@
     <skos:inScheme rdf:resource="#En schema för fjäderfä"/>
   </skos:Concept>
   
-   <skos:Concept rdf:about="#norska höns">
+   <skos:Concept rdf:about="#norska_höns">
     <skos:prefLabel>norska höns</skos:prefLabel>
-    <skos:altLabel xml:lang="sv">norska hönsraser</skos:altLabel>
+    <skos:altLabel xml:lang="sv">norska_hönsraser</skos:altLabel>
     <skos:hiddenLabel>norska hons</skos:hiddenLabel>
-    <skos:narrower rdf:resource="#norska järhöns"/>
+    <skos:narrower rdf:resource="#norska_järhöns"/>
     <skos:related rdf:resource="#svenska_höns"/>
-    <skos:related rdf:resource="#danska höns"/>
+    <skos:related rdf:resource="#danska_höns"/>
     <skos:broader rdf:resource="#höns"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="https://da.wikipedia.org/wiki/Danske_landhøns"/>
@@ -163,11 +162,11 @@
     <skos:inScheme rdf:resource="#En schema för fjäderfä"/>
   </skos:Concept>
   
-  <skos:Concept rdf:about="#norska järhöns">
+  <skos:Concept rdf:about="#norska_järhöns">
     <skos:prefLabel xml:lang="sv">norska järhöns</skos:prefLabel>
     <skos:altLabel xml:lang="da">norska lanthöns</skos:altLabel>
     <skos:hiddenLabel>norska jarhons</skos:hiddenLabel>
-    <skos:broader rdf:resource="#norska höns"/>
+    <skos:broader rdf:resource="#norska_höns"/>
     <skos:broader rdf:resource="#höns"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Norska_järhöns"/>
@@ -175,31 +174,30 @@
     <skos:inScheme rdf:resource="#En schema för fjäderfä"/>
   </skos:Concept>
   
-  
   <skos:Concept rdf:about="#ankor">
     <skos:prefLabel>ankor</skos:prefLabel>
-    <skos:narrower rdf:resource="#svenska ankor"/>
-    <skos:narrower rdf:resource="#svensk myskanka"/>
-    <skos:narrower rdf:resource="#danska ankor"/>
-    <skos:narrower rdf:resource="#faröisk anka"/>
+    <skos:narrower rdf:resource="#svenska_ankor"/>
+    <skos:narrower rdf:resource="#svensk_myskanka"/>
+    <skos:narrower rdf:resource="#danska_ankor"/>
+    <skos:narrower rdf:resource="#faröisk_anka"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Anka"/>
     <skos:example rdf:resource="http://bakgrunder.com/bloggen/wp-content/uploads//vitanka4.jpg"/>
     <skos:inScheme rdf:resource="#En schema för fjäderfä"/>
   </skos:Concept>
   
-  <skos:Concept rdf:about="#svenska ankor">
+  <skos:Concept rdf:about="#svenska_ankor">
     <skos:prefLabel>svenska ankor</skos:prefLabel>
-    <skos:narrower rdf:resource="#svensk myskanka"/>
+    <skos:narrower rdf:resource="#svensk_myskanka"/>
   	<skos:broader rdf:resource="#ankor"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="http://www.kackel.se/lantras_ankor.html"/>
     <skos:inScheme rdf:resource="#En schema för fjäderfä"/>
   </skos:Concept>
   
-  <skos:Concept rdf:about="#svensk myskanka">
+  <skos:Concept rdf:about="#svensk_myskanka">
     <skos:prefLabel xml:lang="sv">svensk myskanka</skos:prefLabel>
-    <skos:broader rdf:resource="#svenska ankor"/>
+    <skos:broader rdf:resource="#svenska_ankor"/>
     <skos:broader rdf:resource="#ankor"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Svensk_myskanka"/>
@@ -207,18 +205,18 @@
     <skos:inScheme rdf:resource="#En schema för fjäderfä"/>
   </skos:Concept>
   
-  <skos:Concept rdf:about="#danska ankor">
+  <skos:Concept rdf:about="#danska_ankor">
     <skos:prefLabel>danska ankor</skos:prefLabel>
-    <skos:narrower rdf:resource="#faröisk anka"/>
+    <skos:narrower rdf:resource="#faröisk_anka"/>
   	<skos:broader rdf:resource="#ankor"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="http://www.zooenc.eu/sv/dansk-anka/"/>
     <skos:inScheme rdf:resource="#En schema för fjäderfä"/>
   </skos:Concept>
   
-  <skos:Concept rdf:about="#faröisk anka">
+  <skos:Concept rdf:about="#faröisk_anka">
     <skos:prefLabel xml:lang="sv">faröisk anka</skos:prefLabel>
-    <skos:broader rdf:resource="#danska ankor"/>
+    <skos:broader rdf:resource="#danska_ankor"/>
     <skos:broader rdf:resource="#ankor"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="http://www.zooenc.eu/sv/faroisk-anka/"/>
@@ -226,25 +224,23 @@
     <skos:inScheme rdf:resource="#En schema för fjäderfä"/>
   </skos:Concept>
   
-  
-  
   <skos:Concept rdf:about="#tamgäss">
     <skos:prefLabel>höns</skos:prefLabel>
     <skos:altLabel xml:lang="sv">hönsraser</skos:altLabel>
     <skos:hiddenLabel>honsraser</skos:hiddenLabel>
-    <skos:narrower rdf:resource="#svenska tamgäss"/>
+    <skos:narrower rdf:resource="#svenska_tamgäss"/>
     <skos:narrower rdf:resource="#ölandsgås"/>
-    <skos:narrower rdf:resource="#danska tamgäss"/>
-    <skos:narrower rdf:resource="#dansk lantgås"/>
-    <skos:narrower rdf:resource="#norska tamgäss"/>
+    <skos:narrower rdf:resource="#danska_tamgäss"/>
+    <skos:narrower rdf:resource="#dansk_lantgås"/>
+    <skos:narrower rdf:resource="#norska_tamgäss"/>
     <skos:narrower rdf:resource="#smålensgås"/>
-    <skos:narrower rdf:resource="#norsk hvit gås"/>
+    <skos:narrower rdf:resource="#norsk_hvit_gås"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Tamgås"/>
     <skos:inScheme rdf:resource="#En schema för fjäderfä"/>
   </skos:Concept>
   
-  <skos:Concept rdf:about="#svenska tamgäss">
+  <skos:Concept rdf:about="#svenska_tamgäss">
     <skos:prefLabel>svenska tamgäss</skos:prefLabel>
     <skos:hiddenLabel>svenska gass</skos:hiddenLabel>
     <skos:narrower rdf:resource="#ölandsgås"/>
@@ -257,7 +253,7 @@
   <skos:Concept rdf:about="#ölandsgås">
     <skos:prefLabel xml:lang="sv">ölandsgås</skos:prefLabel>
     <skos:hiddenLabel>olandsgas</skos:hiddenLabel>
-    <skos:broader rdf:resource="#svenska tamgäss"/>
+    <skos:broader rdf:resource="#svenska_tamgäss"/>
     <skos:broader rdf:resource="#tamgäss"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Svensk_myskanka"/>
@@ -265,20 +261,20 @@
     <skos:inScheme rdf:resource="#En schema för fjäderfä"/>
   </skos:Concept>
   
-  <skos:Concept rdf:about="#danska tamgäss">
+  <skos:Concept rdf:about="#danska_tamgäss">
     <skos:prefLabel>danska tamgäss</skos:prefLabel>
     <skos:hiddenLabel>danska gass</skos:hiddenLabel>
-    <skos:narrower rdf:resource="#dansk lantgås"/>
+    <skos:narrower rdf:resource="#dansk_lantgås"/>
   	<skos:broader rdf:resource="#tamgäss"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="http://www.gamle-husdyrracer.dk/index.php/dyrene/hons-aender-a-gaes/41-de-danske-landgaes"/>
     <skos:inScheme rdf:resource="#En schema för fjäderfä"/>
   </skos:Concept>
   
-  <skos:Concept rdf:about="#dansk lantgås">
+  <skos:Concept rdf:about="#dansk_lantgås">
     <skos:prefLabel xml:lang="sv">dansk lantgås</skos:prefLabel>
     <skos:hiddenLabel>dansk lantgas</skos:hiddenLabel>
-    <skos:broader rdf:resource="#danska tamgäss"/>
+    <skos:broader rdf:resource="#danska_tamgäss"/>
     <skos:broader rdf:resource="#tamgäss"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Dansk_lantgås"/>
@@ -286,12 +282,11 @@
     <skos:inScheme rdf:resource="#En schema för fjäderfä"/>
   </skos:Concept>
   
-  
-  <skos:Concept rdf:about="#norska tamgäss">
+  <skos:Concept rdf:about="#norska_tamgäss">
     <skos:prefLabel>norska tamgäss</skos:prefLabel>
     <skos:hiddenLabel>norska gass</skos:hiddenLabel>
     <skos:narrower rdf:resource="#smålensgås"/>
-    <skos:narrower rdf:resource="#norsk hvit gås"/>
+    <skos:narrower rdf:resource="#norsk_hvit_gås"/>
   	<skos:broader rdf:resource="#tamgäss"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="http://www.kackel.se/lantras_ankor.html"/>
@@ -300,7 +295,7 @@
   
   <skos:Concept rdf:about="#smålensgås">
     <skos:prefLabel xml:lang="sv">smålensgås</skos:prefLabel>
-    <skos:broader rdf:resource="#norska tamgäss"/>
+    <skos:broader rdf:resource="#norska_tamgäss"/>
     <skos:broader rdf:resource="#tamgäss"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="http://nrff.no/norske%20raser/smålensgås.html"/>
@@ -308,9 +303,9 @@
     <skos:inScheme rdf:resource="#En schema för fjäderfä"/>
   </skos:Concept>
 
-  <skos:Concept rdf:about="#norsk hvit gås">
+  <skos:Concept rdf:about="#norsk_hvit_gås">
     <skos:prefLabel xml:lang="sv">norsk hvit gås</skos:prefLabel>
-    <skos:broader rdf:resource="#norska tamgäss"/>
+    <skos:broader rdf:resource="#norska_tamgäss"/>
     <skos:broader rdf:resource="#tamgäss"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="http://www.skogoglandskap.no/Artsbeskrivelser/hvitgaas/default_view"/>
