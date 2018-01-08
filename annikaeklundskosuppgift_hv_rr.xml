@@ -136,6 +136,7 @@
     <skos:prefLabel>ankor</skos:prefLabel>
     <skos:narrower rdf:resource="#svenska_ankor"/>
     <skos:narrower rdf:resource="#danska_ankor"/>
+    <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Anka"/>
     <skos:example rdf:resource="http://bakgrunder.com/bloggen/wp-content/uploads//vitanka4.jpg"/>
     <skos:inScheme rdf:resource="#En schema för fjäderfä"/>
