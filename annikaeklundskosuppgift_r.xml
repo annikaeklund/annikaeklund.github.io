@@ -64,8 +64,8 @@
   </skos:Concept>
   
   <skos:Concept rdf:about="#svenska_höns">
-    <skos:prefLabel>svenska_höns</skos:prefLabel>
-    <skos:altLabel xml:lang="sv">svenska_hönsraser</skos:altLabel>
+    <skos:prefLabel>svenska höns</skos:prefLabel>
+    <skos:altLabel xml:lang="sv">svenska hönsraser</skos:altLabel>
     <skos:hiddenLabel>svenska hons</skos:hiddenLabel>
     <skos:broader rdf:resource="#höns"/>
     <skos:broader rdf:resource="#fjäderfä"/>
