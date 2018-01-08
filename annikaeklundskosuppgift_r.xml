@@ -126,7 +126,7 @@
   
   <skos:Concept rdf:about="#danska_höns">
     <skos:prefLabel>danska höns</skos:prefLabel>
-    <skos:altLabel xml:lang="sv">danska_hönsraser</skos:altLabel>
+    <skos:altLabel xml:lang="sv">danska hönsraser</skos:altLabel>
     <skos:hiddenLabel>danska hons</skos:hiddenLabel>
     <skos:narrower rdf:resource="#danska_lanthöns"/>
     <skos:broader rdf:resource="#höns"/>
@@ -150,11 +150,9 @@
   
    <skos:Concept rdf:about="#norska_höns">
     <skos:prefLabel>norska höns</skos:prefLabel>
-    <skos:altLabel xml:lang="sv">norska_hönsraser</skos:altLabel>
+    <skos:altLabel xml:lang="sv">norska hönsraser</skos:altLabel>
     <skos:hiddenLabel>norska hons</skos:hiddenLabel>
     <skos:narrower rdf:resource="#norska_järhöns"/>
-    <skos:related rdf:resource="#svenska_höns"/>
-    <skos:related rdf:resource="#danska_höns"/>
     <skos:broader rdf:resource="#höns"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="https://da.wikipedia.org/wiki/Danske_landhøns"/>
@@ -226,7 +224,7 @@
   
   <skos:Concept rdf:about="#tamgäss">
     <skos:prefLabel>höns</skos:prefLabel>
-    <skos:altLabel xml:lang="sv">hönsraser</skos:altLabel>
+    <skos:altLabel xml:lang="sv">domesticerade gäss</skos:altLabel>
     <skos:hiddenLabel>honsraser</skos:hiddenLabel>
     <skos:narrower rdf:resource="#svenska_tamgäss"/>
     <skos:narrower rdf:resource="#ölandsgås"/>
