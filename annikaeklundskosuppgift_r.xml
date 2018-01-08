@@ -17,7 +17,7 @@
     <skos:hiddenLabel>tamfaglar</skos:hiddenLabel>
     <skos:altLabel>fjaderfa</skos:altLabel>
     <skos:narrower rdf:resource="#höns"/>
-    <skos:narrower rdf:resource="#svenska höns"/>
+    <skos:narrower rdf:resource="#svenska_höns"/>
     <skos:narrower rdf:resource="#bohuslän-dals svarthöna"/>
     <skos:narrower rdf:resource="#ölandshöna"/>
     <skos:narrower rdf:resource="#öländsk dvärghöna"/>
@@ -48,7 +48,7 @@
     <skos:prefLabel>höns</skos:prefLabel>
     <skos:altLabel xml:lang="sv">hönsraser</skos:altLabel>
     <skos:hiddenLabel>honsraser</skos:hiddenLabel>
-    <skos:narrower rdf:resource="#svenska höns"/>
+    <skos:narrower rdf:resource="#svenska_höns"/>
     <skos:narrower rdf:resource="#bohuslän-dals svarthöna"/>
     <skos:narrower rdf:resource="#ölandshöna"/>
     <skos:narrower rdf:resource="#öländsk dvärghöna"/>
@@ -63,9 +63,9 @@
     <skos:inScheme rdf:resource="#En schema för fjäderfä"/>
   </skos:Concept>
   
-  <skos:Concept rdf:about="#svenska höns">
-    <skos:prefLabel>svenska höns</skos:prefLabel>
-    <skos:altLabel xml:lang="sv">svenska hönsraser</skos:altLabel>
+  <skos:Concept rdf:about="#svenska_höns">
+    <skos:prefLabel>svenska_höns</skos:prefLabel>
+    <skos:altLabel xml:lang="sv">svenska_hönsraser</skos:altLabel>
     <skos:hiddenLabel>svenska hons</skos:hiddenLabel>
     <skos:broader rdf:resource="#höns"/>
     <skos:broader rdf:resource="#fjäderfä"/>
@@ -80,7 +80,7 @@
     <skos:prefLabel xml:lang="sv">bohuslän-dals svarthöna</skos:prefLabel>
     <skos:altLabel xml:lang="sv">svarthöna</skos:altLabel>
     <skos:hiddenLabel>bohuslan-dals svarthona</skos:hiddenLabel>
-    <skos:broader rdf:resource="#svenska höns"/>
+    <skos:broader rdf:resource="#svenska_höns"/>
     <skos:broader rdf:resource="#höns"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Bohuslän-Dals_svarthöna"/>
@@ -93,7 +93,7 @@
     <skos:altLabel xml:lang="sv">ölandshöns</skos:altLabel>
     <skos:hiddenLabel>Olandshona</skos:hiddenLabel>
     <skos:related rdf:resource="#öländsk dvärghöna"/>
-    <skos:broader rdf:resource="#svenska höns"/>
+    <skos:broader rdf:resource="#svenska_höns"/>
     <skos:broader rdf:resource="#höns"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="http://smakasverige.jordbruksverket.se/ravaror/ravarorarkiv/olandshona.150.html"/>
@@ -105,7 +105,7 @@
     <skos:altLabel xml:lang="sv">spitehöna</skos:altLabel>
     <skos:hiddenLabel>olandsk dvarghona</skos:hiddenLabel>
     <skos:related rdf:resource="#ölandshöna"/>
-    <skos:broader rdf:resource="#svenska höns"/>
+    <skos:broader rdf:resource="#svenska_höns"/>
     <skos:broader rdf:resource="#höns"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Öländsk_dvärghöna"/>
@@ -117,7 +117,7 @@
     <skos:altLabel xml:lang="sv">gotländsk höna</skos:altLabel>
     <skos:hiddenLabel>gotlandshona</skos:hiddenLabel>
     <skos:hiddenLabel xml:lang="sv">Gotlands hön</skos:hiddenLabel>
-    <skos:broader rdf:resource="#svenska höns"/>
+    <skos:broader rdf:resource="#svenska_höns"/>
     <skos:broader rdf:resource="#höns"/>
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Gotlandshöna"/>
@@ -154,7 +154,7 @@
     <skos:altLabel xml:lang="sv">norska hönsraser</skos:altLabel>
     <skos:hiddenLabel>norska hons</skos:hiddenLabel>
     <skos:narrower rdf:resource="#norska järhöns"/>
-    <skos:related rdf:resource="#svenska höns"/>
+    <skos:related rdf:resource="#svenska_höns"/>
     <skos:related rdf:resource="#danska höns"/>
     <skos:broader rdf:resource="#höns"/>
     <skos:broader rdf:resource="#fjäderfä"/>
