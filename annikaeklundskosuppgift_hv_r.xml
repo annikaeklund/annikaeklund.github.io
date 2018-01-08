@@ -4,7 +4,7 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dc="http://purl.org/dc/elements/1.1/">
   
-  <skos:ConceptScheme rdf:about="en_schema_för_fjäderfä">
+  <skos:ConceptScheme rdf:about="ett_schema_för_fjäderfä">
     <dc:title>Vokabulär för några skandinaviska fjäderfä</dc:title>
     <dc:description>Kontrollerad vokabulär för indexering av dokument som handlar om några skandinaviska fjäderfä</dc:description>
     <dc:creator>Annika Eklund</dc:creator>
