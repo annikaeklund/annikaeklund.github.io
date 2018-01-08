@@ -70,6 +70,8 @@
     <skos:broader rdf:resource="#fjäderfä"/>
     <skos:narrower rdf:resource="#bohuslän-dals_svarthöna"/>
     <skos:narrower rdf:resource="#gotlandshöna"/>
+    <skos:narrower rdf:resource="#ölandshöna"/>
+    <skos:narrower rdf:resource="#öländsk_dvärghöna"/>
     <skos:definition rdf:resource="https://sv.wikipedia.org/wiki/Svenska_lantraser#Höns"/>
     <skos:example rdf:resource="https://www.slu.se/ew-nyheter/nyhetsarkiv/2015/3/svenska-lanthonsraser-far-arvsmassan-kartlagd/"/>
     <skos:inScheme rdf:resource="#En schema för fjäderfä"/>
