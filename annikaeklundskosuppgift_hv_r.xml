@@ -13,7 +13,6 @@
   <skos:Concept rdf:about="#fjäderfä">
     <skos:prefLabel xml:lang="sv">fjäderfä</skos:prefLabel>
     <skos:altLabel xml:lang="sv">lantbruksfåglar</skos:altLabel>
-    <skos:altLabel xml:lang="sv">domesticerade fåglar</skos:altLabel>
     <skos:hiddenLabel>fjaderfa</skos:hiddenLabel>
     <skos:narrower rdf:resource="#höns"/>
     <skos:narrower rdf:resource="#svenska_höns"/>
