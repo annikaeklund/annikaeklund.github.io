@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="statement">Through the Looking Glass</title>
+				<author key="66462036"><ref target="https://viaf.org/viaf/66462036/">Carroll, Lewis</ref></author>
+				<respStmt xml:id="MG">
+					<persName>Annika Ida Maria Eklund</persName>
+					<resp>encoding</resp>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition> New electronic edition. <date when="2018-03-27"> March 27th 2018</date>
+				</edition>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>
+					<persName>Annika Ida Maria Eklund</persName>
+					<persName>Black Cat &#38; Black Cat AB</persName>
+					<pubPlace>Kroksjö, Örjsö</pubPlace>
+				</publisher>
+				<date when="2018-03-27"> March 27th 2018</date>
+				<availability>
+					<p> Available for reuse, according to the terms of the <ref target="http://gutenberg.net/license"> Project Gutenberg license</ref>.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<author key="66462036"><ref target="https://viaf.org/viaf/66462036/">Carroll, Lewis, 1832-1898.</ref></author>
+					<title type="statement"> Project Gutenberg's Through the Looking Glass, by Lewis Carroll.</title>
+					<pubPlace>Unknown</pubPlace>
+					<publisher>Unknown</publisher>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text type="children's_books">
+		<front>
+			<titlePage>
+				<docTitle>
+					<titlePart>Chapers 1-3, from Project Gutenberg's Through the Looking Glass</titlePart>
+				</docTitle>
+				<byline>by <docAuthor>Lewsi Carroll</docAuthor> An electronic edition.
+				</byline>
+			</titlePage>
+		</front>
+		<body>
+			<div type="chapter">
+			
+				<head>Chapter I. Looking-Glass house</head>
+				
+				<p>One thing was certain, that the WHITE kitten had had nothing to do with it:&#x2014;it was the black kitten’s fault entirely. For the white kitten had
+				been having its face washed by the old cat for the last quarter of an hour (and bearing it pretty well, considering); so you see that it
+				COULDN’T have had any hand in the mischief.</p>
+				
+				<p>The way Dinah washed her children’s faces was this: first she held the poor thing down by its ear with one paw, and then with the other paw she
+				rubbed its face all over, the wrong way, beginning at the nose: and just now, as I said, she was hard at work on the white kitten, which was
+				lying quite still and trying to purr&#x2014;no doubt feeling that it was all meant for its good.</p>
+				
+				<p>But the black kitten had been finished with earlier in the afternoon, and so, while Alice was sitting curled up in a corner of the great arm-chair, 
+				half talking to herself and half asleep, the kitten had been having a grand game of romps with the ball of worsted Alice had been trying to wind up, 
+				and had been rolling it up and down till it had all come undone again; and there it was, spread over the hearth-rug, all knots and tangles, with the 
+				kitten running after its own tail in the middle.</p>
+
+				<p><said>Oh, you wicked little thing!</said> cried Alice, catching up the kitten, and giving it a little kiss to make it understand that it was in disgrace.
+				<said>Really, Dinah ought to have taught you better manners! You OUGHT, Dinah, you know you ought!</said> she added, looking reproachfully at the old cat, 
+				and speaking in as cross a voice as she could manage&#x2014;and then she scrambled back into the arm-chair, taking the kitten and the worsted with her, 
+				and began winding up the ball again. But she didn’t get on very fast, as she was talking all the time, sometimes to the kitten, and sometimes to 
+				herself. Kitty sat very demurely on her knee, pretending to watch the progress of the winding, and now and then putting out one paw and gently 
+				touching the ball, as if it would be glad to help, if it might.</p>
+
+				<p><said>Do you know what to-morrow is, Kitty?</said> Alice began. <said>You’d have guessed if you’d been up in the window with me&#x2014;only Dinah was making you tidy,
+				so you couldn’t. I was watching the boys getting in sticks for the bonfire&#x2014;and it wants plenty of sticks, Kitty! Only it got so cold, and
+				it snowed so, they had to leave off. Never mind, Kitty, we’ll go and see the bonfire to-morrow.</said> Here Alice wound two or three turns of the
+				worsted round the kitten’s neck, just to see how it would look: this led to a scramble, in which the ball rolled down upon the floor, and yards
+				and yards of it got unwound again.</p>
+
+				<p><said>Do you know, I was so angry, Kitty,</said> Alice went on as soon as they were comfortably settled again, <said>when I saw all the mischief you had been
+				doing, I was very nearly opening the window, and putting you out into the snow! And you’d have deserved it, you little mischievous darling!
+				What have you got to say for yourself? Now don’t interrupt me!</said> she went on, holding up one finger. <said>I’m going to tell you all your faults.
+				Number one: you squeaked twice while Dinah was washing your face this morning. Now you can’t deny it, Kitty: I heard you! What’s that you
+				say?</said> (pretending that the kitten was speaking.) <said>Her paw went into your eye? Well, that’s YOUR fault, for keeping your eyes open&#x2014;if you’d
+				shut them tight up, it wouldn’t have happened. Now don’t make any more excuses, but listen! Number two: you pulled Snowdrop away by the tail
+				just as I had put down the saucer of milk before her! What, you were thirsty, were you? How do you know she wasn’t thirsty too? Now for
+				number three: you unwound every bit of the worsted while I wasn’t looking!</said></p>
+
+				<p><said>That’s three faults, Kitty, and you’ve not been punished for any of them yet. You know I’m saving up all your punishments for Wednesday
+				week&#x2014;Suppose they had saved up all MY punishments!</said> she went on, talking more to herself than the kitten. <said>What WOULD they do at the end
+				of a year? I should be sent to prison, I suppose, when the day came. Or&#x2014;let me see&#x2014;suppose each punishment was to be going without a
+				dinner: then, when the miserable day came, I should have to go without fifty dinners at once! Well, I shouldn’t mind THAT much! I’d far rather
+				go without them than eat them!</said></p>
+
+				<p><said>Do you hear the snow against the window-panes, Kitty? How nice and soft it sounds! Just as if some one was kissing the window all over outside.
+				I wonder if the snow LOVES the trees and fields, that it kisses them so gently? And then it covers them up snug, you know, with a white quilt;
+				and perhaps it says, &#8220;Go to sleep, darlings, till the summer comes again.&#8221; And when they wake up in the summer, Kitty, they dress
+				themselves all in green, and dance about&#x2014;whenever the wind blows&#x2014;oh, that’s very pretty!</said> cried Alice, dropping the ball of worsted to clap
+				her hands. <said>And I do so WISH it was true! I’m sure the woods look sleepy in the autumn, when the leaves are getting brown.</said></p>
+
+				<p><said>Kitty, can you play chess? Now, don’t smile, my dear, I’m asking it seriously. Because, when we were playing just now, you watched just as
+				if you understood it: and when I said &#8220;Check!&#8221; you purred! Well, it WAS a nice check, Kitty, and really I might have won, if it hadn’t been for
+				that nasty Knight, that came wiggling down among my pieces. Kitty, dear, let’s pretend&#x2014;</said> And here I wish I could tell you half the things Alice
+				used to say, beginning with her favourite phrase <said>Let’s pretend.</said> She had had quite a long argument with her sister only the day before&#x2014;all
+				because Alice had begun with <said>Let’s pretend we’re kings and queens;</said> and her sister, who liked being very exact, had argued that they couldn’t,
+				because there were only two of them, and Alice had been reduced at last to say, <said>Well, YOU can be one of them then, and I’LL be all the rest.</said>
+				And once she had really frightened her old nurse by shouting suddenly in her ear, <said>Nurse! Do let’s pretend that I’m a hungry hyaena, and you’re a
+				bone.</said></p>
+
+				<p>But this is taking us away from Alice’s speech to the kitten. <said>Let’s pretend that you’re the Red Queen, Kitty! Do you know, I think if you
+				sat up and folded your arms, you’d look exactly like her. Now do try, there’s a dear!</said> And Alice got the Red Queen off the table, and set it
+				up before the kitten as a model for it to imitate: however, the thing didn’t succeed, principally, Alice said, because the kitten wouldn’t
+				fold its arms properly. So, to punish it, she held it up to the Looking-glass, that it might see how sulky it was&#x2014;<said>and if you’re not
+				good directly,</said> she added, <said>I’ll put you through into Looking-glass House. How would you like THAT?</said></p>
+
+				<p><said>Now, if you’ll only attend, Kitty, and not talk so much, I’ll tell you all my ideas about Looking-glass House. First, there’s the room you can
+				see through the glass&#x2014;that’s just the same as our drawing room, only the things go the other way. I can see all of it when I get upon a
+				chair&#x2014;all but the bit behind the fireplace. Oh! I do so wish I could see THAT bit! I want so much to know whether they’ve a fire in the
+				winter: you never CAN tell, you know, unless our fire smokes, and then smoke comes up in that room too&#x2014;but that may be only pretence, just to
+				make it look as if they had a fire. Well then, the books are something like our books, only the words go the wrong way; I know that, because
+				I’ve held up one of our books to the glass, and then they hold up one in the other room.</said></p>
+
+				<p><said>How would you like to live in Looking-glass House, Kitty? I wonder if they’d give you milk in there? Perhaps Looking-glass milk isn’t good
+				to drink&#x2014;But oh, Kitty! now we come to the passage. You can just see a little PEEP of the passage in Looking-glass House, if you leave the door
+				of our drawing-room wide open: and it’s very like our passage as far as you can see, only you know it may be quite different on beyond.
+				Oh, Kitty! how nice it would be if we could only get through into Looking-glass House! I’m sure it’s got, oh! such beautiful things in it!
+				Let’s pretend there’s a way of getting through into it, somehow, Kitty. Let’s pretend the glass has got all soft like gauze, so that we can get
+				through. Why, it’s turning into a sort of mist now, I declare! It’ll be easy enough to get through&#x2014;</said> She was up on the chimney-piece while she
+				said this, though she hardly knew how she had got there. And certainly the glass WAS beginning to melt away, just like a bright silvery mist.</p>
+
+				<p>In another moment Alice was through the glass, and had jumped lightly down into the Looking-glass room. The very first thing she did was
+				to look whether there was a fire in the fireplace, and she was quite pleased to find that there was a real one, blazing away as brightly as
+				the one she had left behind. <said>So I shall be as warm here as I was in the old room,</said> thought Alice: <said>warmer, in fact, because there’ll be no one
+				here to scold me away from the fire. Oh, what fun it’ll be, when they see me through the glass in here, and can’t get at me!</said></p>
+
+				<p>Then she began looking about, and noticed that what could be seen from the old room was quite common and uninteresting, but that all the rest
+				was as different as possible. For instance, the pictures on the wall next the fire seemed to be all alive, and the very clock on 
+				the chimney-piece (you know you can only see the back of it in the Looking-glass) had got the face of a little old man, and grinned at her.</p>
+
+				<p><said>They don’t keep this room so tidy as the other,</said> Alice thought to herself, as she noticed several of the chessmen down in the hearth among
+				the cinders: but in another moment, with a little <said>Oh!</said> of surprise, she was down on her hands and knees watching them. The chessmen were walking
+				about, two and two!</p>
+
+				<p><said>Here are the Red King and the Red Queen,</said> Alice said (in a whisper, for fear of frightening them), <said>and there are the White King and the White
+				Queen sitting on the edge of the shovel&#x2014;and here are two castles walking arm in arm&#x2014;I don’t think they can hear me,</said> she went on, as she
+				put her head closer down, <said>and I’m nearly sure they can’t see me. I feel somehow as if I were invisible&#x2014;</said></p>
+
+				<p>Here something began squeaking on the table behind Alice, and made her turn her head just in time to see one of the White Pawns roll over and
+				begin kicking: she watched it with great curiosity to see what would happen next.</p>
+
+				<p><said>It is the voice of my child!</said> the White Queen cried out as she rushed past the King, so violently that she knocked him over among the cinders.
+				<said>My precious Lily! My imperial kitten!</said> and she began scrambling wildly up the side of the fender.</p>
+
+				<p><said>Imperial fiddlestick!</said> said the King, rubbing his nose, which had been hurt by the fall. He had a right to be a LITTLE annoyed with the Queen,
+				for he was covered with ashes from head to foot.</p>
+
+				<p>Alice was very anxious to be of use, and, as the poor little Lily was nearly screaming herself into a fit, she hastily picked up the Queen and
+				set her on the table by the side of her noisy little daughter.</p>
+
+				<p>The Queen gasped, and sat down: the rapid journey through the air had quite taken away her breath and for a minute or two she could do nothing
+				but hug the little Lily in silence. As soon as she had recovered her breath a little, she called out to the White King, who was sitting
+				sulkily among the ashes, <said>Mind the volcano!</said></p>
+
+				<p><said>What volcano?</said> said the King, looking up anxiously into the fire, as if he thought that was the most likely place to find one.</p>
+
+				<p><said>Blew&#x2014;me&#x2014;up,</said> panted the Queen, who was still a little out of breath. <said>Mind you come up&#x2014;the regular way&#x2014;don’t get blown up!</said></p>
+
+				<p>Alice watched the White King as he slowly struggled up from bar to bar, till at last she said, <said>Why, you’ll be hours and hours getting to the
+				table, at that rate. I’d far better help you, hadn’t I?</said> But the King took no notice of the question: it was quite clear that he could neither
+				hear her nor see her.</p>
+
+				<p>So Alice picked him up very gently, and lifted him across more slowly than she had lifted the Queen, that she mightn’t take his breath away:
+				but, before she put him on the table, she thought she might as well dust him a little, he was so covered with ashes.</p>
+
+				<p>She said afterwards that she had never seen in all her life such a face as the King made, when he found himself held in the air by an invisible
+				hand, and being dusted: he was far too much astonished to cry out, but his eyes and his mouth went on getting larger and larger, and rounder
+				and rounder, till her hand shook so with laughing that she nearly let him drop upon the floor.</p>
+
+				<p><said>Oh! PLEASE don’t make such faces, my dear!</said> she cried out, quite forgetting that the King couldn’t hear her. <said>You make me laugh so that
+				I can hardly hold you! And don’t keep your mouth so wide open! All the ashes will get into it&#x2014;there, now I think you’re tidy enough!</said> she
+				added, as she smoothed his hair, and set him upon the table near the Queen.</p>
+
+				<p>The King immediately fell flat on his back, and lay perfectly still: and Alice was a little alarmed at what she had done, and went round the room
+				to see if she could find any water to throw over him. However, she could find nothing but a bottle of ink, and when she got back with it she
+				found he had recovered, and he and the Queen were talking together in a frightened whisper&#x2014;so low, that Alice could hardly hear what they said.</p>
+
+				<p>The King was saying, <said>I assure, you my dear, I turned cold to the very ends of my whiskers!</said></p>
+
+				<p>To which the Queen replied, <said>You haven’t got any whiskers.</said></p>
+
+				<p><said>The horror of that moment,</said> the King went on, <said>I shall never, NEVER forget!</said></p>
+
+				<p><said>You will, though,</said> the Queen said, <said>if you don’t make a memorandum of it.</said></p>
+
+				<p>Alice looked on with great interest as the King took an enormous memorandum-book out of his pocket, and began writing. A sudden thought
+				struck her, and she took hold of the end of the pencil, which came some way over his shoulder, and began writing for him.</p>
+
+				<p>The poor King looked puzzled and unhappy, and struggled with the pencil for some time without saying anything; but Alice was too strong for him,
+				and at last he panted out, <said>My dear! I really MUST get a thinner pencil. I can’t manage this one a bit; it writes all manner of things that I
+				don’t intend&#x2014;</said></p>
+
+				<p><said>What manner of things?</said> said the Queen, looking over the book (in which Alice had put <said>THE WHITE KNIGHT IS SLIDING DOWN THE POKER. HE BALANCES
+				VERY BADLY</said>) <said>That’s not a memorandum of YOUR feelings!</said></p>
+
+				<p>There was a book lying near Alice on the table, and while she sat watching the White King (for she was still a little anxious about him,
+				and had the ink all ready to throw over him, in case he fainted again), she turned over the leaves, to find some part that she could read,
+				<said>&#x2014;for it’s all in some language I don’t know,</said> she said to herself.</p>
+
+				<p>It was like this.</p>
+
+                
+				<text>
+				<body>
+				<head>YKCOWREBBAJ</head>
+				<lg type="quatrain">
+				<l>sevot yhtils eht dna,gillirb sawT’</l>
+				<l>ebaw eht ni elbmig dna eryg diD</l>
+				<l>,sevogorob eht erew ysmim llA</l>
+				<l>.ebargtuo shtar emom eht dnA</l>
+				</lg>
+				<body>
+				<text>
+
+				<p>She puzzled over this for some time, but at last a bright thought struck her. <said>Why, it’s a Looking-glass book, of course! And if I hold it up to
+				a glass, the words will all go the right way again.</said></p>
+
+				<p>This was the poem that Alice read.</p>
+
+				<text>
+				<body>
+				<head>JABBERWOCKY</head>
+				<lg type="quatrain">
+				<l><said>Twas brillig, and the slithy toves</l>
+				<l>Did gyre and gimble in the wabe;</l>
+				<l>All mimsy were the borogoves,</l>
+				<l>And the mome raths outgrabe.</l>
+				</lg>
+				<lg type="quatrain">
+				<l><said>Beware the Jabberwock, my son!</l>
+				<l>The jaws that bite, the claws that catch!</l>
+				<l>Beware the Jubjub bird, and shun</l>
+				<l>The frumious Bandersnatch!’</l>
+				</lg>
+				<lg type="quatrain">
+				<l>He took his vorpal sword in hand:</l>
+				<l>Long time the manxome foe he sought&#x2014;</l>
+				<l>So rested he by the Tumtum tree,</l>
+				<l>And stood awhile in thought.</l>
+				</lg>
+				<lg type="quatrain">
+				<l>And as in uffish thought he stood,</l>
+				<l>The Jabberwock, with eyes of flame,</l>
+				<l>Came whiffling through the tulgey wood,</l>
+				<l>And burbled as it came!</l>
+				</lg>
+				<lg type="quatrain">
+				<l>One, two! One, two! And through and through</l>
+				<l>The vorpal blade went snicker-snack!</l>
+				<l>He left it dead, and with its head</l>
+				<l>He went galumphing back.</l>
+				</lg>
+				<lg type="quatrain">
+				<l><said>And hast thou slain the Jabberwock?</l>
+				<l>Come to my arms, my beamish boy!</l>
+				<l>O frabjous day! Callooh! Callay!’</l>
+				<l>He chortled in his joy.</l>
+				</lg>
+				<lg type="quatrain">
+				<l><said>Twas brillig, and the slithy toves</l>
+				<l>Did gyre and gimble in the wabe;</l>
+				<l>All mimsy were the borogoves,</l>
+				<l>And the mome raths outgrabe.</l>
+				</lg>
+				<body>
+				<text>
+
+				<p><said>It seems very pretty,</said> she said when she had finished it, <said>but it’s RATHER hard to understand!</said> (You see she didn’t like to confess, even
+				to herself, that she couldn’t make it out at all.) <said>Somehow it seems to fill my head with ideas&#x2014;only I don’t exactly know what they are!
+				However, SOMEBODY killed SOMETHING: that’s clear, at any rate&#x2014;</said></p>
+
+				<p><said>But oh!</said> thought Alice, suddenly jumping up, <said>if I don’t make haste I shall have to go back through the Looking-glass, before I’ve seen what
+				the rest of the house is like! Let’s have a look at the garden first!</said> She was out of the room in a moment, and ran down stairs&#x2014;or, at least,
+				it wasn’t exactly running, but a new invention of hers for getting down stairs quickly and easily, as Alice said to herself. She just kept the
+				tips of her fingers on the hand-rail, and floated gently down without even touching the stairs with her feet; then she floated on through the
+				hall, and would have gone straight out at the door in the same way, if she hadn’t caught hold of the door-post. She was getting a little giddy
+				with so much floating in the air, and was rather glad to find herself walking again in the natural way.</p>
+
+
+			<div type="chapter">
+			
+				<head>CHAPTER II. The Garden of Live Flowers</head>
+				
+
+				<p><said>I should see the garden far better,</said> said Alice to herself, <said>if I could get to the top of that hill: and here’s a path that leads straight to
+				it&#x2014;at least, no, it doesn’t do that&#x2014;</said> (after going a few yards along the path, and turning several sharp corners), <said>but I suppose it will
+				at last. But how curiously it twists! It’s more like a corkscrew than a path! Well, THIS turn goes to the hill, I suppose&#x2014;no, it doesn’t! This
+				goes straight back to the house! Well then, I’ll try it the other way.</said></p>
+
+				<p>And so she did: wandering up and down, and trying turn after turn, but always coming back to the house, do what she would. Indeed, once, when
+				she turned a corner rather more quickly than usual, she ran against it before she could stop herself.</p>
+
+				<p><said>It’s no use talking about it,</said> Alice said, looking up at the house and pretending it was arguing with her. <said>I’m NOT going in again yet. I know
+				I should have to get through the Looking-glass again&#x2014;back into the old room&#x2014;and there’d be an end of all my adventures!</said></p>
+
+				<p>So, resolutely turning her back upon the house, she set out once more down the path, determined to keep straight on till she got to the hill.
+				For a few minutes all went on well, and she was just saying, <said>I really SHALL do it this time&#x2014;</said> when the path gave a sudden twist and shook
+				itself (as she described it afterwards), and the next moment she found herself actually walking in at the door.</p>
+
+				<p><said>Oh, it’s too bad!</said> she cried. <said>I never saw such a house for getting in the way! Never!</said></p>
+
+				<p>However, there was the hill full in sight, so there was nothing to be done but start again. This time she came upon a large flower-bed, with a
+				border of daisies, and a willow-tree growing in the middle.</p>
+
+				<p><said>O Tiger-lily,</said> said Alice, addressing herself to one that was waving gracefully about in the wind, <said>I WISH you could talk!</said></p>
+
+				<p><said>We CAN talk,</said> said the Tiger-lily: <said>when there’s anybody worth talking to.</said></p>
+
+				<p>Alice was so astonished that she could not speak for a minute: it quite seemed to take her breath away. At length, as the Tiger-lily only went
+				on waving about, she spoke again, in a timid voice&#x2014;almost in a whisper. <said>And can ALL the flowers talk?</said></p>
+
+				<p><said>As well as YOU can,</said> said the Tiger-lily. <said>And a great deal louder.</said></p>
+
+				<p><said>It isn’t manners for us to begin, you know,</said> said the Rose, <said>and I really was wondering when you’d speak! Said I to myself, &#8220;Her face has
+				got SOME sense in it, though it’s not a clever one!&#8221; Still, you’re the right colour, and that goes a long way.</said></p>
+
+				<p><said>I don’t care about the colour,</said> the Tiger-lily remarked. <said>If only her petals curled up a little more, she’d be all right.</said></p>
+
+				<p>Alice didn’t like being criticised, so she began asking questions. <said>Aren’t you sometimes frightened at being planted out here, with nobody
+				to take care of you?</said></p>
+
+				<p><said>There’s the tree in the middle,</said> said the Rose: <said>what else is it good for?</said></p>
+
+				<p><said>But what could it do, if any danger came?</said> Alice asked.</p>
+
+				<p><said>It says &#8220;Bough-wough!&#8221;</said> cried a Daisy: <said>that’s why its branches are called boughs!</said></p>
+
+				<p><said>Didn’t you know THAT?</said> cried another Daisy, and here they all began shouting together, till the air seemed quite full of little shrill
+				voices. <said>Silence, every one of you!</said> cried the Tiger-lily, waving itself passionately from side to side, and trembling with excitement. <said>They
+				know I can’t get at them!</said> it panted, bending its quivering head towards Alice, <said>or they wouldn’t dare to do it!</said></p>
+
+				<p><said>Never mind!</said> Alice said in a soothing tone, and stooping down to the daisies, who were just beginning again, she whispered, <said>If you don’t
+				hold your tongues, I’ll pick you!</said></p>
+
+				<p>There was silence in a moment, and several of the pink daisies turned white.</p>
+
+				<p><said>That’s right!</said> said the Tiger-lily. <said>The daisies are worst of all. When one speaks, they all begin together, and it’s enough to make one wither
+				to hear the way they go on!</said></p>
+
+				<p><said>How is it you can all talk so nicely?</said> Alice said, hoping to get it into a better temper by a compliment. <said>I’ve been in many gardens before,
+				but none of the flowers could talk.</said></p>
+
+				<p><said>Put your hand down, and feel the ground,</said> said the Tiger-lily. <said>Then you’ll know why.</said></p>
+
+				<p>Alice did so. <said>It’s very hard,</said> she said, <said>but I don’t see what that has to do with it.</said></p>
+
+				<p><said>In most gardens,</said> the Tiger-lily said, <said>they make the beds too soft&#x2014;so that the flowers are always asleep.</said></p>
+
+				<p>This sounded a very good reason, and Alice was quite pleased to know it. <said>I never thought of that before!</said> she said.</p>
+
+				<p><said>It’s MY opinion that you never think AT ALL,</said> the Rose said in a rather severe tone.</p>
+
+				<p><said>I never saw anybody that looked stupider,</said> a Violet said, so suddenly, that Alice quite jumped; for it hadn’t spoken before.</p>
+
+				<p><said>Hold YOUR tongue!</said> cried the Tiger-lily. <said>As if YOU ever saw anybody! You keep your head under the leaves, and snore away there, till you know
+				no more what’s going on in the world, than if you were a bud!</said></p>
+
+				<p><said>Are there any more people in the garden besides me?</said> Alice said, not choosing to notice the Rose’s last remark.</p>
+
+				<p><said>There’s one other flower in the garden that can move about like you,</said> said the Rose. <said>I wonder how you do it&#x2014;</said> (<said>You’re always wondering,</said>
+				said the Tiger-lily), <said>but she’s more bushy than you are.</said></p>
+
+				<p><said>Is she like me?</said> Alice asked eagerly, for the thought crossed her mind, <said>There’s another little girl in the garden, somewhere!</said></p>
+
+				<p><said>Well, she has the same awkward shape as you,</said> the Rose said, <said>but she’s redder&#x2014;and her petals are shorter, I think.</said></p>
+
+				<p><said>Her petals are done up close, almost like a dahlia,</said> the Tiger-lily interrupted: <said>not tumbled about anyhow, like yours.</said></p>
+
+				<p><said>But that’s not YOUR fault,</said> the Rose added kindly: <said>you’re beginning to fade, you know&#x2014;and then one can’t help one’s petals getting a little
+				untidy.</said></p>
+
+				<p>Alice didn’t like this idea at all: so, to change the subject, she asked <said>Does she ever come out here?</said></p>
+
+				<p><said>I daresay you’ll see her soon,</said> said the Rose. <said>She’s one of the thorny kind.</said></p>
+
+				<p><said>Where does she wear the thorns?</said> Alice asked with some curiosity.</p>
+
+				<p><said>Why all round her head, of course,</said> the Rose replied. <said>I was wondering YOU hadn’t got some too. I thought it was the regular rule.</said></p>
+
+				<p><said>She’s coming!</said> cried the Larkspur. <said>I hear her footstep, thump, thump, thump, along the gravel-walk!</said></p>
+
+				<p>Alice looked round eagerly, and found that it was the Red Queen. <said>She’s grown a good deal!</said> was her first remark. She had indeed: when Alice
+				first found her in the ashes, she had been only three inches high&#x2014;and here she was, half a head taller than Alice herself!</p>
+
+				<p><said>It’s the fresh air that does it,</said> said the Rose: <said>wonderfully fine air it is, out here.</said></p>
+
+				<p><said>I think I’ll go and meet her,</said> said Alice, for, though the flowers were interesting enough, she felt that it would be far grander to have a talk
+				with a real Queen.</p>
+
+				<p><said>You can’t possibly do that,</said> said the Rose: <said>_I_ should advise you to walk the other way.</said></p>
+
+				<p>This sounded nonsense to Alice, so she said nothing, but set off at once towards the Red Queen. To her surprise, she lost sight of her in a
+				moment, and found herself walking in at the front-door again.</p>
+
+				<p>A little provoked, she drew back, and after looking everywhere for the queen (whom she spied out at last, a long way off), she thought she
+				would try the plan, this time, of walking in the opposite direction.</p>
+
+				<p>It succeeded beautifully. She had not been walking a minute before she found herself face to face with the Red Queen, and full in sight of the
+				hill she had been so long aiming at.</p>
+
+				<p><said>Where do you come from?</said> said the Red Queen. <said>And where are you going? Look up, speak nicely, and don’t twiddle your fingers all the time.</said></p>
+
+				<p>Alice attended to all these directions, and explained, as well as she could, that she had lost her way.</p>
+
+				<p><said>I don’t know what you mean by YOUR way,</said> said the Queen: <said>all the ways about here belong to ME&#x2014;but why did you come out here at all?</said> she
+				added in a kinder tone. <said>Curtsey while you’re thinking what to say, it saves time.</said></p>
+
+				<p>Alice wondered a little at this, but she was too much in awe of the Queen to disbelieve it. <said>I’ll try it when I go home,</said> she thought to
+				herself, <said>the next time I’m a little late for dinner.</said></p>
+
+				<p><said>It’s time for you to answer now,</said> the Queen said, looking at her watch: <said>open your mouth a LITTLE wider when you speak, and always say &#8220;your
+				Majesty.&#8221;</said>
+
+				<p><said>I only wanted to see what the garden was like, your Majesty&#x2014;</said></p>
+
+				<p><said>That’s right,</said> said the Queen, patting her on the head, which Alice didn’t like at all, <said>though, when you say &#8220;garden,&#8221;&#x2014;I’VE seen gardens,
+				compared with which this would be a wilderness.</said></p>
+
+				<p>Alice didn’t dare to argue the point, but went on: <said>&#x2014;and I thought I’d try and find my way to the top of that hill&#x2014;</said></p>
+
+				<p><said>When you say &#8220;hill,&#8221;</said> the Queen interrupted, <said>_I_ could show you hills, in comparison with which you’d call that a valley.</said></p>
+
+				<p><said>No, I shouldn’t,</said> said Alice, surprised into contradicting her at last: <said>a hill CAN’T be a valley, you know. That would be nonsense&#x2014;</said></p>
+
+				<p>The Red Queen shook her head, <said>You may call it &#8220;nonsense&#8221; if you like,</said> she said, <said>but I’VE heard nonsense, compared with which that would be as
+				sensible as a dictionary!</said></p>
+
+				<p>Alice curtseyed again, as she was afraid from the Queen’s tone that she was a LITTLE offended: and they walked on in silence till they got to
+				the top of the little hill.</p>
+
+				<p>For some minutes Alice stood without speaking, looking out in all directions over the country&#x2014;and a most curious country it was. There
+				were a number of tiny little brooks running straight across it from side to side, and the ground between was divided up into squares by a number
+				of little green hedges, that reached from brook to brook.
+
+				<p><said>I declare it’s marked out just like a large chessboard!</said> Alice said at last. <said>There ought to be some men moving about somewhere&#x2014;and so there
+				are!</said> She added in a tone of delight, and her heart began to beat quick with excitement as she went on. <said>It’s a great huge game of chess that’s
+				being played&#x2014;all over the world&#x2014;if this IS the world at all, you know. Oh, what fun it is! How I WISH I was one of them! I wouldn’t mind being
+				a Pawn, if only I might join&#x2014;though of course I should LIKE to be a Queen, best.</said></p>
+
+				<p>She glanced rather shyly at the real Queen as she said this, but her companion only smiled pleasantly, and said, <said>That’s easily managed. You
+				can be the White Queen’s Pawn, if you like, as Lily’s too young to play; and you’re in the Second Square to begin with: when you get to
+				the Eighth Square you’ll be a Queen&#x2014;</said> Just at this moment, somehow or other, they began to run.</p>
+
+				<p>Alice never could quite make out, in thinking it over afterwards, how it was that they began: all she remembers is, that they were running hand
+				in hand, and the Queen went so fast that it was all she could do to keep up with her: and still the Queen kept crying <said>Faster! Faster!</said> but Alice
+				felt she COULD NOT go faster, though she had not breath left to say so.</p>
+
+				<p>The most curious part of the thing was, that the trees and the other things round them never changed their places at all: however fast they
+				went, they never seemed to pass anything. <said>I wonder if all the things move along with us?</said> thought poor puzzled Alice. And the Queen seemed to
+				guess her thoughts, for she cried, <said>Faster! Don’t try to talk!</said></p>
+
+				<p>Not that Alice had any idea of doing THAT. She felt as if she would never be able to talk again, she was getting so much out of breath: and
+				still the Queen cried <said>Faster! Faster!</said> and dragged her along. <said>Are we nearly there?</said> Alice managed to pant out at last.</p>
+
+				<p><said>Nearly there!</said> the Queen repeated. <said>Why, we passed it ten minutes ago! Faster!</said> And they ran on for a time in silence, with the wind whistling
+				in Alice’s ears, and almost blowing her hair off her head, she fancied.</p>
+
+				<p><said>Now! Now!</said> cried the Queen. <said>Faster! Faster!</said> And they went so fast that at last they seemed to skim through the air, hardly touching the
+				ground with their feet, till suddenly, just as Alice was getting quite exhausted, they stopped, and she found herself sitting on the ground,
+				breathless and giddy.</p>
+
+				<p>The Queen propped her up against a tree, and said kindly, <said>You may rest a little now.</said></p>
+
+				<p>Alice looked round her in great surprise. <said>Why, I do believe we’ve been under this tree the whole time! Everything’s just as it was!</said></p>
+
+				<p><said>Of course it is,</said> said the Queen, <said>what would you have it?</said></p>
+
+				<p><said>Well, in OUR country,</said> said Alice, still panting a little, <said>you’d generally get to somewhere else&#x2014;if you ran very fast for a long time,
+				as we’ve been doing.</said></p>
+
+				<p><said>A slow sort of country!</said> said the Queen. <said>Now, HERE, you see, it takes all the running YOU can do, to keep in the same place. If you want to
+				get somewhere else, you must run at least twice as fast as that!</said></p>
+
+				<p><said>I’d rather not try, please!</said> said Alice. <said>I’m quite content to stay here&#x2014;only I AM so hot and thirsty!</said></p>
+
+				<p><said>I know what YOU’D like!</said> the Queen said good-naturedly, taking a little box out of her pocket. <said>Have a biscuit?</said></p>
+
+				<p>Alice thought it would not be civil to say <said>No,</said> though it wasn’t at all what she wanted. So she took it, and ate it as well as she could: and it
+				was VERY dry; and she thought she had never been so nearly choked in all her life.</p>
+
+				<p><said>While you’re refreshing yourself,</said> said the Queen, <said>I’ll just take the measurements.</said> And she took a ribbon out of her pocket, marked in
+				inches, and began measuring the ground, and sticking little pegs in here and there.</p>
+
+				<p><said>At the end of two yards,</said> she said, putting in a peg to mark the distance, <said>I shall give you your directions&#x2014;have another biscuit?</said></p>
+
+				<p><said>No, thank you,</said> said Alice: <said>one’s QUITE enough!</said></p>
+
+				<p><said>Thirst quenched, I hope?</said> said the Queen.</p>
+
+				<p>Alice did not know what to say to this, but luckily the Queen did not wait for an answer, but went on. <said>At the end of THREE yards I shall
+				repeat them&#x2014;for fear of your forgetting them. At the end of FOUR, I shall say good-bye. And at the end of FIVE, I shall go!</said></p>
+
+				<p>She had got all the pegs put in by this time, and Alice looked on with great interest as she returned to the tree, and then began slowly
+				walking down the row.</p>
+
+				<p>At the two-yard peg she faced round, and said, <said>A pawn goes two squares in its first move, you know. So you’ll go VERY quickly through the Third
+				Square&#x2014;by railway, I should think&#x2014;and you’ll find yourself in the Fourth Square in no time. Well, THAT square belongs to Tweedledum and
+				Tweedledee&#x2014;the Fifth is mostly water&#x2014;the Sixth belongs to Humpty Dumpty&#x2014;But you make no remark?</said></p>
+
+				<p><said>I&#x2014;I didn’t know I had to make one&#x2014;just then,</said> Alice faltered out.</p>
+
+				<p><said>You SHOULD have said, &#8220;It’s extremely kind of you to tell me all this&#8221;&#x2014;however, we’ll suppose it said&#x2014;the Seventh Square is all
+				forest&#x2014;however, one of the Knights will show you the way&#x2014;and in the Eighth Square we shall be Queens together, and it’s all feasting and
+				fun!</said> Alice got up and curtseyed, and sat down again.</p>
+
+				<p>At the next peg the Queen turned again, and this time she said, <said>Speak in French when you can’t think of the English for a thing&#x2014;turn out your
+				toes as you walk&#x2014;and remember who you are!</said> She did not wait for Alice to curtsey this time, but walked on quickly to the next peg, where she
+				turned for a moment to say <said>good-bye,</said> and then hurried on to the last.</p>
+
+				<p>How it happened, Alice never knew, but exactly as she came to the last peg, she was gone. Whether she vanished into the air, or whether she
+				ran quickly into the wood (<said>and she CAN run very fast!</said> thought Alice), there was no way of guessing, but she was gone, and Alice began to
+				remember that she was a Pawn, and that it would soon be time for her to move.</p>
+
+
+				
+				
+				
+				
+				
+				
+
+			</div>
+		</body>
+	</text>
+</TEI>
+												
